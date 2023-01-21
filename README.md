@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradip-kathiriya" alt="pradip-kathiriya" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Tau Constraint, developing neural network patch tracker without using photometric los**
+- 🔭 I’m currently working on **Deep Tau Constraint, developing neural network patch tracker without using photometric loss**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer vision, State estimation and Control**
 
