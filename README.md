@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Tau Constraint, developing neural network patch tracker without using photometric loss**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer vision, State estimation and Control**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, State Estimation and Control**
 
 - 💬 Ask me about **Robotics, Machine Learning, Deep Learning**
 
