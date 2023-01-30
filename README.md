@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip Kathiriya</h1>
-<h3 align="center">A passionate Robotics Engineer</h3>
+<h3 align="center">A Robotics Engineer and a Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-kathiriya&label=Profile%20views&color=0e75b6&style=flat" alt="pradip-kathiriya" /> </p>
 
