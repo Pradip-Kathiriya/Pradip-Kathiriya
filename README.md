@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradip-kathiriya" alt="pradip-kathiriya" /></a> </p>
 
-- 🔭 I’m currently working on **Trajectory Estimation and Patch Tracking using Deep Neural Network and Tau Constraint**
+- 🔭 I’m currently working on **Implementing autonomy on the robot manipulator**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, State Estimation and Control**
 
